@@ -1,9 +1,9 @@
 {
-  "name": "@reactgular/destroyable",
+  "name": "@canvasgfx/destroyable",
   "version": "2.0.0",
   "description": "Destroyable is an abstract class that implements the OnDestroy life-cycle hook in Angular",
   "author": "reactgular.com",
-  "homepage": "https://github.com/reactgular/destroyable",
+  "homepage": "https://github.com/canvasgfx/destroyable",
   "license": "MIT",
   "keywords": [
     "angular",
@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/reactgular/destroyable"
+    "url": "https://github.com/canvasgfx/destroyable"
   },
   "bugs": {
     "url": "https://github.com/reactgular/destroyable/issues"
