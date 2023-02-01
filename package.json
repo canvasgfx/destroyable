@@ -1,5 +1,5 @@
 {
-  "name": "@reactgular/destroyable",
+  "name": "@canvasgfx/destroyable",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -9,7 +9,10 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
-  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/canvasgfx/destroyable.git"
+  },
   "dependencies": {
     "@angular/common": "~10.1.0",
     "@angular/compiler": "~10.1.0",
